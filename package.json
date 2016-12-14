@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "dependencies": {
     "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0",
     "normalize.js": "0.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.5.4",
+    "browser-sync": "^2.18.5",
     "gulp": "^3.9.1",
     "gulp-postcss": "^6.2.0",
+    "postcss-import": "^9.0.0",
     "postcss-nested": "^1.0.0",
     "postcss-simple-vars": "^3.0.0"
   }
